@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="election-prueba-1.0.0-SNAPSHOT2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../proyecto spring quarkus/election-prueba/target/quarkus-app/app/election-prueba-1.0.0-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
